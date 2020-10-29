@@ -2,6 +2,8 @@ body {
     background-image: url(assets/topography.png) ;
     repeat;
     font-family: 'Trispace';
+    padding-left: 10%;
+    padding-right: 10%;
 }
 header {
 background-color: #333333;
