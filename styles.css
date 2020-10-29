@@ -3,8 +3,18 @@ body {
     repeat;
     font-family: 'Trispace';
 }
+header {
+background-color: #333333;
+
+}
 nav
 {
     text-align: right;
-    background-color: black;
+    /*background-color: black;*/
+}
+img {
+    
+}
+.links {
+    color: #ff0099;
 }
