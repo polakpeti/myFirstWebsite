@@ -5,15 +5,20 @@ body {
 }
 header {
 background-color: #333333;
+text-align: center;
 
 }
 nav
 {
     text-align: right;
-    /*background-color: black;*/
-}
-img {
     
+}
+.logo {
+    display: block;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-right: auto;
+    width: 3%;
 }
 .links {
     color: #ff0099;
