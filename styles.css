@@ -1,0 +1,10 @@
+body {
+    background-image: url(assets/topography.png) ;
+    repeat;
+    font-family: 'Trispace';
+}
+nav
+{
+    text-align: right;
+    background-color: black;
+}
