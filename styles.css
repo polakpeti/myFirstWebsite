@@ -6,21 +6,24 @@ body {
     padding-right: 10%;
 }
 header {
-background-color: #333333;
-padding:30px;
-
-
-
-
+    background-color: #333333;
+    padding:30px; 
+    position: fixed;
+    width:100%;
+    right: 0%;
+    
+    ;
 }
 nav
 {
     text-align: right;
     
+    padding-left: 0px;
 }
 .logo {
     display: inline;
-   float: left;
+    float: left;
+    padding-left: 10%;
 }
 .links {
     color: #ff0099;
@@ -28,4 +31,8 @@ nav
 .line
 {
     text-align: center;
+}
+.headerDiv {
+    width: 100%;
+
 }
