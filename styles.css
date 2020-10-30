@@ -1,7 +1,10 @@
 body {
     background-image: url(assets/topography.png) ;
     repeat;
+    font-family: 'Courier New', Courier, monospace;
     font-family: 'Trispace';
+    line-height: 1.6em;
+    font-size: 15px;
     padding-left: 10%;
     padding-right: 10%;
 }
@@ -11,8 +14,6 @@ header {
     position: fixed;
     width:100%;
     right: 0%;
-    
-    ;
 }
 nav
 {
@@ -34,5 +35,4 @@ nav
 }
 .headerDiv {
     width: 100%;
-
 }
